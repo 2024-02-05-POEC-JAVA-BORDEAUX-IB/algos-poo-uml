@@ -139,24 +139,9 @@ Créez une fonction qui permet de réaliser la suite de ***Fibonacci*** : *1, 2,
 
 ---
 
-## Exercice 13
-
-A partir d'un tableau associatif, lorsqu'un utilisateur saisit la valeur de l'indice, vous devez récupérer la valeur associée à cette clé
-
-### Exemple en PHP
-
-`<?php
-  $personnes = array('major' => true, 'age' => 36, 'name' => 'fatou');
-  $vFatou = myFn("age"); // 36
-  $vNull = myFn('address'); // null
-  $numbers = [10,50,9,56,87];
-  $vNum = myFn(50);//1`
-
----
-
 ## Exercice 14
 
-En utilisant un tableau similaire à celui présenté ci-dessous, comptez le nombre d'éléments du tableau et donnez le nombre total des habitants.
+Comptez le nombre d'éléments du tableau et donnez le nombre total des habitants.
 
 `const countries = [67595000,9998000,8417000,1820631,434403,122273500, 82800000];`
 
