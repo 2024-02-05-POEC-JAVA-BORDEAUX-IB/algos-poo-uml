@@ -54,9 +54,19 @@ for(let i = 0; i < 10; i++) {
 // Boucle While
 /**
  * A utiliser lorsqu'on ignore le nombre d'itération
+ * Dès le départ si la condition est évaluée à false, on ne rentre jamais dans la boucle
  */
 let age = 30
 while(age < 50) {
     console.log('age', age)
     age++ // attention sans incrémentation et donc solution de sortie ici, c'est une boucle infinie
 }
+
+// Boucle do while
+/**
+ * Similaire à while sauf que la condition est évaluée à la fin
+ * Donc il s'exécute au moins une fois
+ */
+do {
+    console.log('au moins une fois')
+} while(false)
