@@ -1,8 +1,10 @@
 # TP BANQUE
 
-## Objectifs du TP BANQUE PARTIE 1
+## Objectifs du TP BANQUE
 
-1. Résolvez un problème métier par l'utilisation des algorithmes ou d'un programme informatique.
+1. Travaillez en équipe
+2. Versionez son code avec *git* et *github*
+2. Résolvez un problème métier par l'utilisation des algorithmes ou d'un programme informatique.
 
 ---
 
