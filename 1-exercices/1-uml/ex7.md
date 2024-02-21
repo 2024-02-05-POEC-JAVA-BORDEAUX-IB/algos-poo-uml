@@ -4,9 +4,13 @@
 
 ## Enoncé 
 
-1. Réalisez un ou plusieurs ***diagrammes d'objets*** à partir de votre diagramme de classe de la question 2 de l'[exercice 6](./ex6.md).
+1. Réalisez un ou plusieurs ***diagrammes d'objets*** à partir de votre diagramme de classe de la question 2 de l'[exercice 5](./ex5.md).
 
 2. Testez les règles métiers suivants sur votre diagramme de classe et adaptez celui-ci pour qu'il puisse satisfaire aux règles métiers ci-après.
+- Une personne peut effectuer plusieurs réservation d'un hébergement
+- Une personne peut effectuer plusieurs visites d'un hébergement
+- Une visite d'appartement est possible uniquement dans le cas d'une réservation
+- Une personne peut-être à la fois guide, propriétaire et touriste.
 
 ***PS : créer une copie de votre diagramme de classe afin de pouvoir garder l'origine et pouvoir comparer par rapport aux modifications que vous allez apporter pour satisfaire les règles métiers*** 
 
